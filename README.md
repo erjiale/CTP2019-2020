@@ -4,3 +4,6 @@
 <h4><em>Week 01</em></h4>  
 Practicing with Bootstrap, by building a 'Cookie Web Store'.
 
+<h4><em>Week 02</em></h4>  
+
+<h4><em>Week 03</em></h4> 
